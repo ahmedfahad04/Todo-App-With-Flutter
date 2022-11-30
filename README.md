@@ -7,5 +7,5 @@ This is the very first complete project on Flutter. Though almost whole codebase
   * How to use TextEditingController with TextField/TextFormField
   * How to use For loop within the widget Parameters.
   * How to use showModalBottomSheet.
-  * Most Importantly I learnt How to *modularize* the code base.
+  * Most Importantly I learnt How to **modularize** the code base.
   
