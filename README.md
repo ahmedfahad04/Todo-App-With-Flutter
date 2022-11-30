@@ -9,3 +9,7 @@ This is the very first complete project on Flutter. Though almost whole codebase
   * How to use showModalBottomSheet.
   * Most Importantly I learnt How to **modularize** the code base.
   
+## Features
+ * Add and Delete Item (todo Item list).
+ * Search the Items.
+ * Marking & Unmarking Items.
